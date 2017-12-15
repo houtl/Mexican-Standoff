@@ -1,0 +1,10 @@
+C-c-h
+M-g g 12 enter enter
+DOWN DOWN M-f espace
+DOWN C-espace DOWN DOWN DOWN C-w
+UP UP C-y M-C-\
+M-g g 23 enter TAB
+M-g g 29 enter M-f espace
+DOWN C-a espace TAB
+DOWN DOWN M-e C-k enter
+C-x-s
